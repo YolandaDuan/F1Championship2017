@@ -10,3 +10,7 @@ F1 Championship 2017
 npm install      
 npm start    
 ```
+
+## SSH key
+The file location is `/Users/Lingyan/.ssh/id_rsa`
+Passphrase: BytM1g!
