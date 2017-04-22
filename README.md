@@ -12,5 +12,5 @@ npm start
 ```
 
 ## SSH key
-The file location is `/Users/Lingyan/.ssh/id_rsa`
-Passphrase: BytM1g!
+The file location is `/Users/Lingyan/.ssh/id_rsa`        
+Passphrase: 打败我!
